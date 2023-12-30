@@ -1,3 +1,4 @@
 # EDA_on_Netflix
-Performed Exploratory Data Analysis on Netflix Dataset during a 1 month internship at Tathastu Pvt. Ltd. 
+The "Exploratory Data Analysis on Netflix Dataset" project involves a comprehensive exploration and analysis of the Netflix dataset. Through data visualization and statistical techniques, the project aims to uncover insights into the streaming platform's content, user preferences, and viewing patterns. By examining variables such as genres, ratings, and viewer demographics, the analysis seeks to provide a deeper understanding of the trends shaping Netflix's content delivery and user engagement. The project contributes to data-driven decision-making by extracting meaningful information from the dataset, facilitating informed strategies for content curation and audience targeting.
+Performed during a 1 month internship at Tathastu Pvt. Ltd. 
 used Numpy (a Python library used for working with arrays) , Pandas (a Python library used for working with data sets) , Matplotlib (Python’s most popular data visualization library) , etc. 
